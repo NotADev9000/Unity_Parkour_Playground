@@ -9,5 +9,5 @@ WASD -> Move
 Space -> Jump
 
 ## Screenshots
-[walls](https://i.ibb.co/nBYvys5/Parkour-2.png)
-[running up the wall](https://i.ibb.co/88rXCpk/Parkour-1.png)
+![walls](https://i.ibb.co/nBYvys5/Parkour-2.png)
+![running up the wall](https://i.ibb.co/88rXCpk/Parkour-1.png)
