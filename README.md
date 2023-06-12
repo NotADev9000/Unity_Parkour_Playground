@@ -1,4 +1,4 @@
-# Unity_Parkour_Playground
+# Unity Parkour Playground
 A prototype of a parkour FPS game built in Unity (2020.3.7f1)
 
 ## Development
